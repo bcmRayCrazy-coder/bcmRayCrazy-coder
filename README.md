@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-💗 I'm `bcmray_craazy`. You can also call me `ray`.
-🤖️ I prefer `Javascript` best.
-📄 You can see my history **here** ⬇️.
+💗 I'm `bcmray_craazy`. You can also call me `ray`.  
+🤖️ I prefer `Javascript` best.  
+📄 You can see my history **here** ⬇️.  
 
 #### 2020/2
 - Study online. Hello python.
@@ -29,3 +29,6 @@
 2020/8/20
 - I registered a bilibili account: `bcmRay_crazy`
 - Today is byh's birthday🍰
+
+#### 2020/9
+- Say goodbye to my `iPad`
