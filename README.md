@@ -15,12 +15,7 @@
 - Discord `bcmray_crazy`
 
 <p align="left">
-    <a href="https://github.com/adproqwq/adproqwq">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=bcmRayCrazy-coder&show_icons=true&theme=transparent&include_all_commits">
-    </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bcmRayCrazy-coder&show_icons=true&theme=transparent&include_all_commits">
     <br>
-    <br>
-    <a href="https://github.com/adproqwq/adproqwq">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcmRayCrazy-coder&theme=transparent&layout=compact&card_width=467">
-    </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcmRayCrazy-coder&theme=transparent&layout=compact&card_width=467">
 </p>
