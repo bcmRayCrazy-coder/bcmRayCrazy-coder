@@ -28,3 +28,48 @@
 #### 2020/9
 - Say goodbye to my `iPad`
 
+#### 2021/1
+- Hello `NodeJS`
+
+#### 2021/7
+- Hello Arduino but difficult
+
+#### 2021/9
+- Go to Junior High School
+- Become classmate of `ItzJerry317`
+
+#### 2022/1
+- Damn COVID19 leads to online classes
+- Find `__DEBUG_PLAY__` in box3 and steal 超时空对决 map
+- box3 Problem solved
+
+#### 2022/3
+- Hi `MagicCube`
+- Start MC Java Plugin Developing
+
+#### 2022/9
+- 隔壁班跳楼
+
+#### 2022/12
+- Damn COVID19 Again
+- I'm FREE
+
+#### 2023/3
+- Cracked XTC
+- Make a timer application as my first Android project
+
+#### 2023/7
+- Start making music
+
+#### 2023/8
+- Become a member of SCS and cracked codemao education accounts
+- Make some LiteloaderNTQQ Plugin
+
+#### 2024/6
+- Say goodbye to Junior High also my classmates
+
+#### 2024/7
+- Hello esp32
+
+#### 2024/9
+- Hello Cuiyuan Middle School
