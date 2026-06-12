@@ -73,3 +73,32 @@
 
 #### 2024/9
 - Hello Cuiyuan Middle School
+
+#### 2024/10
+- Hello STM32
+- Hello ESP32
+- Take my step into MCU
+
+#### 2025/1
+- Hello SolidWorks
+
+#### 2025/7
+- Have my first 3d printer
+- Use NapCat for QQ bot
+- Start developing Miaomiao Bot
+
+#### 2025/9
+- Hello Rust
+- Use rust to make some debug applications
+
+#### 2026/4
+- Build a new boat
+- Make a remote camera using ESP32
+- Hello Frutiger Aero
+
+#### 2026/5
+- Start making a frutiger aero styled music player
+
+#### 2026/6
+- Being a senior three student!
+
